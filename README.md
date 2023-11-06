@@ -16,7 +16,7 @@ TCN	             |14.309|10.505|  0.8805  |
 Proposed TCN-LSTM|14.291|10.55 |	0.8807  |
 
 Results of the proposed method using only last test window (out of 5 windows) for the FD003 NASA C-MAPSS dataset:
- ![Actual vs Predicted values for RUL](https://github.com/jo355/dash-rul-prediction/assets/66993436/9a46b368-6ed2-4c37-8f8c-46657df7df7e)
+ ![Actual vs Predicted values for RUL](https://github.com/jo355/dash-rul-prediction/blob/main/Actual%20vs%20Prediction-last%20sample%20for%20each%20engine.png)
 
 
 
